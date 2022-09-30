@@ -5,3 +5,5 @@
 * *git remote add origin https://github.com/LordWarlock1982/Seminar-3-.git* - команда меняющаяя локальный репозиторий на сетевой*
 
 * *git push -u origin master* - команда отправляющая репозиторий на гикхаб
+
+* *Commit changes* - команда отправляющая изминения с сервера гитхаб на локальный репозиторий
